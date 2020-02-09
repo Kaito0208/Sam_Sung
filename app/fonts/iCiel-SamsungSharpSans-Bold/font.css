@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'iCiel-SamsungSharpSans-Bold';
+  src: url('iCiel-SamsungSharpSans-Bold.eot');
+  src: url('iCiel-SamsungSharpSans-Bold.eot?#iefix') format('embedded-opentype'),
+       url('iCiel-SamsungSharpSans-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'iCielSamsungSharpSans-Bold';
+  src: url('iCielSamsungSharpSans-Bold.svg#iCielSamsungSharpSans-Bold') format('svg'),
+       url('iCielSamsungSharpSans-Bold.ttf') format('truetype'),
+       url('iCielSamsungSharpSans-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

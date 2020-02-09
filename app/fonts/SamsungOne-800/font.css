@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'SamsungOne-800';
+  src: url('SamsungOne-800.eot');
+  src: url('SamsungOne-800.eot?#iefix') format('embedded-opentype'),
+       url('SamsungOne-800.svg#SamsungOne-800') format('svg'),
+       url('SamsungOne-800.ttf') format('truetype'),
+       url('SamsungOne-800.woff') format('woff'),
+       url('SamsungOne-800.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
